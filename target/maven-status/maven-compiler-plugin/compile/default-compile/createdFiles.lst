@@ -1,0 +1,7 @@
+com\mycompany\registroacademico\servicios\IEstudianteService.class
+com\mycompany\registroacademico\dominio\Estudiante.class
+com\mycompany\registroacademico\datos\EstudianteDaoImp.class
+com\mycompany\registroacademico\datos\IEstudianteDao.class
+com\mycompany\registroacademico\servicios\EstudianteServiceImpl.class
+com\mycompany\registroacademico\JAXRSConfiguration.class
+com\mycompany\registroacademico\resources\JavaEE8Resource.class
